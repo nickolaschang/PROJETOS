@@ -1,0 +1,14 @@
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\bin\Debug\netcoreapp3.1\ProgramaTesteExercicio.exe
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\bin\Debug\netcoreapp3.1\ProgramaTesteExercicio.deps.json
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\bin\Debug\netcoreapp3.1\ProgramaTesteExercicio.runtimeconfig.json
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\bin\Debug\netcoreapp3.1\ProgramaTesteExercicio.runtimeconfig.dev.json
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\bin\Debug\netcoreapp3.1\ProgramaTesteExercicio.dll
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\bin\Debug\netcoreapp3.1\ProgramaTesteExercicio.pdb
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.csproj.AssemblyReference.cache
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.AssemblyInfoInputs.cache
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.AssemblyInfo.cs
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.csproj.CoreCompileInputs.cache
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.dll
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.pdb
+C:\Users\nicko\source\repos\ProgramaTesteExercicio\ProgramaTesteExercicio\obj\Debug\netcoreapp3.1\ProgramaTesteExercicio.genruntimeconfig.cache

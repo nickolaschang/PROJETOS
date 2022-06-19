@@ -1,0 +1,14 @@
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.csproj.AssemblyReference.cache
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.AssemblyInfoInputs.cache
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.AssemblyInfo.cs
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.csproj.CoreCompileInputs.cache
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\bin\Debug\netcoreapp3.1\ProgramaExemplo3.exe
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\bin\Debug\netcoreapp3.1\ProgramaExemplo3.deps.json
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\bin\Debug\netcoreapp3.1\ProgramaExemplo3.runtimeconfig.json
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\bin\Debug\netcoreapp3.1\ProgramaExemplo3.runtimeconfig.dev.json
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\bin\Debug\netcoreapp3.1\ProgramaExemplo3.dll
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\bin\Debug\netcoreapp3.1\ProgramaExemplo3.pdb
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.dll
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.pdb
+C:\Users\nicko\source\repos\ProgramaExemplo3\ProgramaExemplo3\obj\Debug\netcoreapp3.1\ProgramaExemplo3.genruntimeconfig.cache

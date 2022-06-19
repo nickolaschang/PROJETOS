@@ -1,0 +1,14 @@
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\bin\Debug\netcoreapp3.1\PogramaBanco.exe
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\bin\Debug\netcoreapp3.1\PogramaBanco.deps.json
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\bin\Debug\netcoreapp3.1\PogramaBanco.runtimeconfig.json
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\bin\Debug\netcoreapp3.1\PogramaBanco.runtimeconfig.dev.json
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\bin\Debug\netcoreapp3.1\PogramaBanco.dll
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\bin\Debug\netcoreapp3.1\PogramaBanco.pdb
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.csproj.AssemblyReference.cache
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.AssemblyInfoInputs.cache
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.AssemblyInfo.cs
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.csproj.CoreCompileInputs.cache
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.dll
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.pdb
+C:\Users\nicko\source\repos\PogramaBanco\PogramaBanco\obj\Debug\netcoreapp3.1\PogramaBanco.genruntimeconfig.cache

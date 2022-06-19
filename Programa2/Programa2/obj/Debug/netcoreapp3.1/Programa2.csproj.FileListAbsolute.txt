@@ -1,0 +1,14 @@
+C:\Users\nicko\source\repos\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.exe
+C:\Users\nicko\source\repos\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.deps.json
+C:\Users\nicko\source\repos\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.runtimeconfig.json
+C:\Users\nicko\source\repos\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.runtimeconfig.dev.json
+C:\Users\nicko\source\repos\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.dll
+C:\Users\nicko\source\repos\Programa2\Programa2\bin\Debug\netcoreapp3.1\Programa2.pdb
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.csproj.AssemblyReference.cache
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.AssemblyInfoInputs.cache
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.AssemblyInfo.cs
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.csproj.CoreCompileInputs.cache
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.dll
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.pdb
+C:\Users\nicko\source\repos\Programa2\Programa2\obj\Debug\netcoreapp3.1\Programa2.genruntimeconfig.cache
