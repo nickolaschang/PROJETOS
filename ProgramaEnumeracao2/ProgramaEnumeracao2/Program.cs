@@ -23,7 +23,7 @@ namespace ProgramaEnumeracao2
             Console.Write("How many contracts to this worker? ");
             int contractsNum = int.Parse(Console.ReadLine());
 
-            for (int i = 1; i < contractsNum; i++)
+            for (int i = 0; i < contractsNum; i++)
             {
                 Console.WriteLine($"Enter #{i} contract data: ");
                 Console.Write("Date (DD/MM/YYYY): ");
@@ -43,7 +43,7 @@ namespace ProgramaEnumeracao2
 
             Console.WriteLine($"Name: {worker.Name}");
             Console.WriteLine($"Department: {worker.Department.Name}");
-            Console.WriteLine($"Income for {monthAndYear}: {worker.Income(year, month)}");
+            Console.WriteLine($"Income for {monthAndYear}: {worker.Income(year, month):F2}");
         }
     }
 }
