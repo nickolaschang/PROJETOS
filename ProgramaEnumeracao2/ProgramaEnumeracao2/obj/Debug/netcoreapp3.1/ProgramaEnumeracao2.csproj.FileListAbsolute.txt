@@ -1,0 +1,14 @@
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\bin\Debug\netcoreapp3.1\ProgramaEnumeracao2.exe
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\bin\Debug\netcoreapp3.1\ProgramaEnumeracao2.deps.json
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\bin\Debug\netcoreapp3.1\ProgramaEnumeracao2.runtimeconfig.json
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\bin\Debug\netcoreapp3.1\ProgramaEnumeracao2.runtimeconfig.dev.json
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\bin\Debug\netcoreapp3.1\ProgramaEnumeracao2.dll
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\bin\Debug\netcoreapp3.1\ProgramaEnumeracao2.pdb
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.csproj.AssemblyReference.cache
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.AssemblyInfoInputs.cache
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.AssemblyInfo.cs
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.csproj.CoreCompileInputs.cache
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.dll
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.pdb
+C:\PROJETOS GIT\PROJETOS\ProgramaEnumeracao2\ProgramaEnumeracao2\obj\Debug\netcoreapp3.1\ProgramaEnumeracao2.genruntimeconfig.cache

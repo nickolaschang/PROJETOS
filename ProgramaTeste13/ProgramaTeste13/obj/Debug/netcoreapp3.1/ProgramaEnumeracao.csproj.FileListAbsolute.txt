@@ -1,0 +1,14 @@
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\bin\Debug\netcoreapp3.1\ProgramaEnumeracao.exe
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\bin\Debug\netcoreapp3.1\ProgramaEnumeracao.deps.json
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\bin\Debug\netcoreapp3.1\ProgramaEnumeracao.runtimeconfig.json
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\bin\Debug\netcoreapp3.1\ProgramaEnumeracao.runtimeconfig.dev.json
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\bin\Debug\netcoreapp3.1\ProgramaEnumeracao.dll
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\bin\Debug\netcoreapp3.1\ProgramaEnumeracao.pdb
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.csproj.AssemblyReference.cache
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.AssemblyInfoInputs.cache
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.AssemblyInfo.cs
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.csproj.CoreCompileInputs.cache
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.dll
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.pdb
+C:\PROJETOS GIT\PROJETOS\ProgramaTeste13\ProgramaTeste13\obj\Debug\netcoreapp3.1\ProgramaEnumeracao.genruntimeconfig.cache
