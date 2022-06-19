@@ -1,0 +1,14 @@
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\bin\Debug\netcoreapp3.1\DemoStringBuilder.exe
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\bin\Debug\netcoreapp3.1\DemoStringBuilder.deps.json
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\bin\Debug\netcoreapp3.1\DemoStringBuilder.runtimeconfig.json
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\bin\Debug\netcoreapp3.1\DemoStringBuilder.runtimeconfig.dev.json
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\bin\Debug\netcoreapp3.1\DemoStringBuilder.dll
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\bin\Debug\netcoreapp3.1\DemoStringBuilder.pdb
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.csproj.AssemblyReference.cache
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.AssemblyInfoInputs.cache
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.AssemblyInfo.cs
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.csproj.CoreCompileInputs.cache
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.dll
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.pdb
+C:\PROJETOS GIT\PROJETOS\DemoStringBuilder\DemoStringBuilder\obj\Debug\netcoreapp3.1\DemoStringBuilder.genruntimeconfig.cache
