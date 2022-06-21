@@ -5,4 +5,8 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-</Project>
+  <ItemGroup>
+    <Compile Include="C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting.sln" Link="UpcastingDowncasting.sln" />
+  </ItemGroup>
+
+</Project></Project>
