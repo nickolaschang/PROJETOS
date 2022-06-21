@@ -1,0 +1,14 @@
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.exe
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.deps.json
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.json
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.runtimeconfig.dev.json
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.AssemblyReference.cache
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfoInputs.cache
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.AssemblyInfo.cs
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.csproj.CoreCompileInputs.cache
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.dll
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.pdb
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\UpcastingDowncasting.genruntimeconfig.cache

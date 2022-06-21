@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\PROJETOS GIT\\PROJETOS\\UpcastingDowncasting\\UpcastingDowncasting\\UpcastingDowncasting\\VirtualOverride.csproj",
+      "projectUniqueName": "C:\\PROJETOS GIT\\PROJETOS\\VirtualOverride\\VirtualOverride\\VirtualOverride.csproj",
       "projectName": "VirtualOverride",
-      "projectPath": "C:\\PROJETOS GIT\\PROJETOS\\UpcastingDowncasting\\UpcastingDowncasting\\UpcastingDowncasting\\VirtualOverride.csproj",
+      "projectPath": "C:\\PROJETOS GIT\\PROJETOS\\VirtualOverride\\VirtualOverride\\VirtualOverride.csproj",
       "packagesPath": "C:\\Users\\nicko\\.nuget\\packages\\",
-      "outputPath": "C:\\PROJETOS GIT\\PROJETOS\\UpcastingDowncasting\\UpcastingDowncasting\\UpcastingDowncasting\\obj\\",
+      "outputPath": "C:\\PROJETOS GIT\\PROJETOS\\VirtualOverride\\VirtualOverride\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
