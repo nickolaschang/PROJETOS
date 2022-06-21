@@ -1,0 +1,14 @@
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\VirtualOverride.exe
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\VirtualOverride.deps.json
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\VirtualOverride.runtimeconfig.json
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\VirtualOverride.runtimeconfig.dev.json
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\VirtualOverride.dll
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\bin\Debug\netcoreapp3.1\VirtualOverride.pdb
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.csproj.AssemblyReference.cache
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.AssemblyInfoInputs.cache
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.AssemblyInfo.cs
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.csproj.CoreCompileInputs.cache
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.dll
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.pdb
+C:\PROJETOS GIT\PROJETOS\UpcastingDowncasting\UpcastingDowncasting\UpcastingDowncasting\obj\Debug\netcoreapp3.1\VirtualOverride.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\bin\Debug\netcoreapp3.1\NewProject2.exe
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\bin\Debug\netcoreapp3.1\NewProject2.deps.json
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\bin\Debug\netcoreapp3.1\NewProject2.runtimeconfig.json
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\bin\Debug\netcoreapp3.1\NewProject2.runtimeconfig.dev.json
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\bin\Debug\netcoreapp3.1\NewProject2.dll
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\bin\Debug\netcoreapp3.1\NewProject2.pdb
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.csproj.AssemblyReference.cache
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.AssemblyInfoInputs.cache
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.AssemblyInfo.cs
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.csproj.CoreCompileInputs.cache
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.dll
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.pdb
+C:\PROJETOS GIT\PROJETOS\NewProject2\NewProject2\obj\Debug\netcoreapp3.1\NewProject2.genruntimeconfig.cache
