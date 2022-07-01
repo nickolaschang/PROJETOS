@@ -1,0 +1,14 @@
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.1\JogoXadrez.exe
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.1\JogoXadrez.deps.json
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.1\JogoXadrez.runtimeconfig.json
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.1\JogoXadrez.runtimeconfig.dev.json
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.1\JogoXadrez.dll
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\bin\Debug\netcoreapp3.1\JogoXadrez.pdb
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.csproj.AssemblyReference.cache
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.AssemblyInfoInputs.cache
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.AssemblyInfo.cs
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.csproj.CoreCompileInputs.cache
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.dll
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.pdb
+C:\PROJETOS GIT\PROJETOS\JogoXadrez\JogoXadrez\obj\Debug\netcoreapp3.1\JogoXadrez.genruntimeconfig.cache
