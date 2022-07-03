@@ -1,10 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace JogoXadrez.Board
+﻿namespace Board
 {
-    internal class Position
+    class Position
     {
         public int line { get; set; }
         public int column { get; set; }
