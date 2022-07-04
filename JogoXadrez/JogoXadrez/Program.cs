@@ -1,16 +1,13 @@
 ﻿using System;
-using JogoXadrez.Board;
+using Board;
 namespace JogoXadrez
 {
     internal class Program
     {
         static void Main(string[] args)
         {
-            Position p;
-
-            p = new Position(3, 4);
-
-            Console.WriteLine($"position: {p}");
+           board board = new board(8,8);
+           ConsoleSystem.BoardTable(board);
            
         }
     }

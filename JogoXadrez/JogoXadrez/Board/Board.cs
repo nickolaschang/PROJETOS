@@ -2,15 +2,19 @@
 {
     class board
     {
-        public int lines { get; set; }
-        public int rows { get; set; }
-        private ChessPiece[,] piece;
+        public int line { get; set; }
+        public int row { get; set; }
+        private ChessPiece[,] pieces;
 
-        public board(int lines, int rows)
+        public board(int line, int row)
         {
-            this.lines = lines;
-            this.rows = rows;
-            piece = new ChessPiece[lines, rows];
+            this.line = line;
+            this.row = row;
+            pieces = new ChessPiece[line, row];
+        }
+        public ChessPiece piece(int line, int row)
+        {
+            return pieces[line, row];
         }
     }
 }
